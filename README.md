@@ -1,6 +1,6 @@
 # MERN WEB DEVELOPMENT
 
-## HTML-CSS-Project
+## HTML-CSS-Projects
 A collection of HTML and CSS projects, showcasing my skills and experience in building visually appealing web pages.
 
 ### Projects
