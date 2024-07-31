@@ -1,2 +1,5 @@
 # MERN WEB DEVELOPMENT
-All Project available in this repo is made by using HTML and CSS....
+
+### Technologies Used
++ HTML
++ CSS
