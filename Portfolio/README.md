@@ -7,4 +7,4 @@ Welcome to my portfolio project! This repository contains a personal portfolio w
 
 ### Technologies Used
 + HTML: For the structure and content of the page.
-+ CSS: For styling and implementing the parallax effect.
++ CSS: For styling.
