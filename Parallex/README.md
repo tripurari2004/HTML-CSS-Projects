@@ -11,3 +11,15 @@ This project showcases a parallax scrolling effect using HTML and CSS. The desig
 ### Technologies Used
 + HTML: For the structure and content of the page.
 + CSS: For styling and implementing the parallax effect.
+
+
+### _Installation_
+
+To run the Counter App locally, follow these steps:
+1. **Clone the repository:**
+> [!TIP]
+> Code: git clone https://github.com/tripurari2004/HTML-CSS-Projects.git
+
+2. **Navigate to the Password Parallax directory:**
+> [!TIP]
+> Code: cd HTML-CSS-JS-Projects/Parallex
