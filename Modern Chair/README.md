@@ -11,3 +11,14 @@ This project is a single-page website that showcases a modern chair design using
 ### Technologies Used
 + HTML: For the structure and content of the page.
 + CSS: For styling the page.
+
+### _Installation_
+
+To run the Counter App locally, follow these steps:
+1. **Clone the repository:**
+> [!TIP]
+> Code: git clone https://github.com/tripurari2004/HTML-CSS-Projects.git
+
+2. **Navigate to the Modern Chair directory:**
+> [!TIP]
+> Code: cd HTML-CSS-Projects/Modern Chair
